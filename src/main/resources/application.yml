@@ -1,0 +1,27 @@
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 1004740022236-7a24u0ftp8ca1vjsiujimuvd6klmqgjc.apps.googleusercontent.com # get a client-id from https://console.developers.google.com/
+            client-secret: b1aIZwPS4ys7qh2xV3JeqspW # get a client-secret from https://console.developers.google.com/
+
+
+
+camunda.bpm:
+  admin-user:
+    id: demo
+    password: demo
+    firstName: Demo
+  filter:
+    create: All tasks
+
+
+server:
+  port : 8080
+
+
+
+
