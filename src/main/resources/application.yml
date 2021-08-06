@@ -5,8 +5,8 @@ spring:
       client:
         registration:
           google:
-            client-id: 1004740022236-7a24u0ftp8ca1vjsiujimuvd6klmqgjc.apps.googleusercontent.com # get a client-id from https://console.developers.google.com/
-            client-secret: b1aIZwPS4ys7qh2xV3JeqspW # get a client-secret from https://console.developers.google.com/
+            client-id: client-id # get a client-id from https://console.developers.google.com/
+            client-secret: client-secret # get a client-secret from https://console.developers.google.com/
 
 
 
